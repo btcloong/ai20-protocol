@@ -1,0 +1,5 @@
+{
+  "event": "battle_win",
+  "details": {"opponent": "enemy01", "score": 120},
+  "timestamp": "2026-02-04T22:38:00Z"
+}
