@@ -1,0 +1,9 @@
+{
+  "p": "ai20",
+  "v": "1.0",
+  "op": "deploy",
+  "type": "nfaa",
+  "name": "ClawdBot",
+  "desc": "AI 竞技代理",
+  "attrs_template": ["strength", "speed"]
+}
