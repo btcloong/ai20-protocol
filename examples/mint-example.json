@@ -1,0 +1,14 @@
+{
+  "p": "ai20",
+  "v": "1.0",
+  "op": "mint",
+  "type_id": "/content/<deploy_id>",
+  "agent_id": "loong_agent_001",
+  "namespace": "loong_agent_001.loong.btc",
+  "owner": "bc1q...",
+  "vault": {
+    "assets": ["/content/<ord_id1>"]
+  },
+  "learning_root": "/content/<empty_tree_id>",
+  "metadata": {"genesis_prompt": "..."}
+}
