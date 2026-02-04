@@ -1,0 +1,14 @@
+{
+  "p": "ai20",
+  "v": "1.0",
+  "op": "update",
+  "agent_id": "loong_agent_001",
+  "new_records": ["/content/leaf1_id", "/content/leaf2_id"],
+  "prev_root": "/content/old_root_id",
+  "new_root_hash": "sha256_new_tree_example",
+  "vault_update": {"add": ["/content/new_asset_id"]},
+  "metadata_update": {"level": 5},
+  "extensions": {
+    "a2a": {"collaborators": ["/content/agent2"]}
+  }
+}
